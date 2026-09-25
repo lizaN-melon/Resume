@@ -30,7 +30,7 @@ h2 {
 }
 
 .header {
-	background-image: URL(images/header.png);
+	background-image: URL(Images/Header.png);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -164,7 +164,7 @@ h2 {
 }
 
 .footer {
-	background-image: URL(images/footer.png);
+	background-image: URL(Images/Footer.png);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
